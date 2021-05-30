@@ -1,0 +1,12 @@
+{
+  "name": "v4-boss-rn",
+  "displayName": "v4-boss-rn",
+  "expo": {
+    "name": "v4-boss-rn",
+    "slug": "v4-boss-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
